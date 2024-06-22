@@ -15,9 +15,3 @@ I'm Riekus Grobler a Student curious in learning various coding skills. I Spend 
 <!-- TODO: Make technologies links takes you to repositories -->
 
 [![Badges](https://skillicons.dev/icons?i=cs,unity,ubuntu,)](#) 
-
-
-
-![Riekus's github stats](https://github-readme-stats.vercel.app/api?username=Rickygr&count_private=true&theme=dark&hide=contribs,prs)
-
-</details>
