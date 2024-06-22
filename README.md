@@ -8,7 +8,7 @@ I'm Riekus Grobler a Student curious in learning various coding skills. I Spend 
 
 - 🔭 I’m currently looking for new projects ideas.
 - 🧠 Brainstorming 
--⚡ Fun fact: I like coffee and learn languages.
+- ⚡ Fun fact: I like coffee and learn languages.
 
 #### What I know
 
