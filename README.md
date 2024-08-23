@@ -1,17 +1,1 @@
-## Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="29px" height="29px" alt="hi">
-
-I'm Riekus a student curious in learning various coding skills. I Spend most of my time coding projects or studing something new.
-
-<!-- TODO: Add last video link -->
-
-### What I currently Do
-
-- 🔭 I’m currently looking for new projects ideas.
-- 🧠 Brainstorming 
-- ⚡ Fun fact: I like coffee and learn languages.
-
-#### What I know
-
-<!-- TODO: Make technologies links takes you to repositories -->
-
-[![Badges](https://skillicons.dev/icons?i=cs,unity,ubuntu,)](#) 
+ <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTY1Zjd1dDE1c3NkMnloZzJwNjZ4eTNkY21rZHhhdDdobHpicTJvaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0IyccD7Am8P2f02Y/giphy.webp">
