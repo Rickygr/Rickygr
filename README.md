@@ -4,7 +4,7 @@ Hi 👋 My name is Riekus Grobler
 Linux wizard 🧙🏻
 ------------
 
-I'm a second-year Bachelor of Information Technology student at Belgium Campus (2024 - 2027), with a strong passion for networking, system support, and Linux systems. I thrive on solving technical problems and optimizing system performance. My hands-on experience in troubleshooting and supporting IT infrastructure allows me to bridge theory with practical, real-world problem solving.
+Bachelor of Information Technology student , with a strong passion for networking, system support, and Linux systems. I thrive on solving technical problems and optimizing system performance. My hands-on experience in troubleshooting and supporting IT infrastructure allows me to bridge theory with practical, real-world problem solving.
 
 * 🌍  I'm based in South Africa
 * ✉️  You can contact me at [riekusgroblerps4@gmail.com](mailto:riekusgroblerps4@gmail.com)
