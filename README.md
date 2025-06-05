@@ -1,61 +1,32 @@
-<h1 align="center">Hi there 👋 I'm Riekus Grobler</h1>
+Hi 👋 My name is Riekus Grobler
+===============================
 
-<p align="center">
-🎓 <strong>Information Technology Student</strong> | 🐧 <strong>Linux Enthusiast</strong> | 🛠 <strong>Support Technician</strong><br>
-📍 Pretoria, Gauteng, South Africa<br>
-📧 <a href="mailto:riekusgroblerps4@gmail.com">riekusgroblerps4@gmail.com</a> | 🔗 <a href="https://www.linkedin.com/in/riekus-grobler-54a9bb335">LinkedIn</a>
+Linux wizard
+------------
+
+I'm a second-year Bachelor of Information Technology student at Belgium Campus (2024 - 2027), with a strong passion for networking, system support, and Linux systems. I thrive on solving technical problems and optimizing system performance. My hands-on experience in troubleshooting and supporting IT infrastructure allows me to bridge theory with practical, real-world problem solving.
+
+* 🌍  I'm based in South Africa
+* ✉️  You can contact me at [riekusgroblerps4@gmail.com](mailto:riekusgroblerps4@gmail.com)
+* 🧠  I'm learning Bash, Linux , Java, Python
+* ⚡  I like Coffee ☕
+
+### Skills
+
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim.svg" width="36" height="36" alt="Neovim" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://wix.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" width="36" height="36" alt="Wix" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
 </p>
 
----
 
-## 🧑‍💻 About Me
+### Socials
 
-I'm a second-year Bachelor of Information Technology student at **Belgium Campus** (2024 - 2027), with a strong passion for networking, system support, and Linux systems. I thrive on solving technical problems and optimizing system performance. My hands-on experience in troubleshooting and supporting IT infrastructure allows me to bridge theory with practical, real-world problem solving.
+<p align="left"> <a href="https://www.github.com/Rickygr" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/riekus-grobler-54a9bb335" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
----
+### Badges
 
-## 🛠️ Skills
+<b>My GitHub Stats</b>
 
-- 🖥️ **Technical Support & Troubleshooting**
-- 💽 **Operating Systems**: Windows, Linux (various distros)
-- 🌐 **Networking & System Administration**
-- 🔧 **Hardware Repair & Configuration**
+<a href="http://www.github.com/Rickygr"><img src="https://github-readme-stats.vercel.app/api?username=Rickygr&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Rickygr's GitHub stats" /></a>
 
----
-
-## 💼 Experience
-
-**💻 Freelance Technician (Self-employed)**  
-_2021 – Present_
-
-- 🧩 Built and configured custom computers tailored to client needs and budgets  
-- 🔍 Performed hardware diagnostics and repairs on desktops and laptops  
-- 💾 Migrated and partitioned Windows systems while preserving user data  
-- 🛠️ Troubleshot and resolved software and driver issues  
-- 🐧 Installed and optimized various Linux distributions for client and personal use  
-
----
-
-## 📚 Currently Learning
-
-- 🧠 Advanced Network Administration  
-- 🔐 System Security Fundamentals  
-- ☁️ Cloud Infrastructure & DevOps Tools  
-
----
-
-## 🔍 Open To
-
-- 🚀 Internships  
-- 🌱 Mentorships  
-- 👨‍💻 Junior roles in IT support or networking
-
----
-
-## 🧠 Fun Fact
-
-When I’m not working with systems, I love diving into new Linux distros and exploring open-source projects!
-
----
-
-<p align="center">Thanks for stopping by! Feel free to connect or check out my work here on GitHub 👇</p>
+<a href="http://www.github.com/Rickygr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rickygr&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
