@@ -1,6 +1,3 @@
-Sure! Here's the full content of your `README.md` file, which you can also [download here](sandbox:/mnt/data/README.md):
-
-```markdown
 <h1 align="center">Hi there 👋 I'm Riekus Grobler</h1>
 
 <p align="center">
@@ -62,6 +59,3 @@ When I’m not working with systems, I love diving into new Linux distros and ex
 ---
 
 <p align="center">Thanks for stopping by! Feel free to connect or check out my work here on GitHub 👇</p>
-```
-
-Let me know if you’d like to add GitHub stats, badges, or an animated banner!
