@@ -1,61 +1,62 @@
-<h1 align="center">Hi there 👋 I'm Riekus Grobler</h1>
+<h1 align="center"><em>Salutations, Traveler of the Terminal</em> 👨‍🎓</h1>
 
 <p align="center">
-🎓 <strong>Information Technology Student</strong> | 🐧 <strong>Linux Enthusiast</strong> | 🛠 <strong>Support Technician</strong><br>
+🖋️ <strong>Riekus Grobler</strong><br>
+<em>Student of Information Technology, Linux Adept, and System Scholar</em><br>
 📍 Pretoria, Gauteng, South Africa<br>
 📧 <a href="mailto:riekusgroblerps4@gmail.com">riekusgroblerps4@gmail.com</a> | 🔗 <a href="https://www.linkedin.com/in/riekus-grobler-54a9bb335">LinkedIn</a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 📜 Preface
 
-I'm a second-year Bachelor of Information Technology student at **Belgium Campus** (2024 - 2027), with a strong passion for networking, system support, and Linux systems. I thrive on solving technical problems and optimizing system performance. My hands-on experience in troubleshooting and supporting IT infrastructure allows me to bridge theory with practical, real-world problem solving.
-
----
-
-## 🛠️ Skills
-
-- 🖥️ **Technical Support & Troubleshooting**
-- 💽 **Operating Systems**: Windows, Linux (various distros)
-- 🌐 **Networking & System Administration**
-- 🔧 **Hardware Repair & Configuration**
+By candlelight and keyboard, I pursue the discipline of Information Technology at **Belgium Campus** (2024–2027), finding beauty in the architecture of networks and the order of Linux systems. My pursuit is not of fleeting trends but of enduring principles — logic, structure, and the elegance of code.
 
 ---
 
-## 💼 Experience
+## ⚙️ Scholarly Aptitudes
 
-**💻 Freelance Technician (Self-employed)**  
+- ⚔️ **Technical Troubleshooting & User Support**
+- 🧭 **Operating Systems Lore**: Windows & Linux distros
+- 🏰 **Network Topologies & Infrastructure Administration**
+- 🛠 **Restoration & Assembly of Computational Devices**
+
+---
+
+## 📖 Apprenticeship
+
+**🔧 Independent Technician & Tinkerer**  
 _2021 – Present_
 
-- 🧩 Built and configured custom computers tailored to client needs and budgets  
-- 🔍 Performed hardware diagnostics and repairs on desktops and laptops  
-- 💾 Migrated and partitioned Windows systems while preserving user data  
-- 🛠️ Troubleshot and resolved software and driver issues  
-- 🐧 Installed and optimized various Linux distributions for client and personal use  
+- Constructed bespoke computing machines for various academic and utilitarian quests  
+- Performed rites of restoration on failing hardware  
+- Conducted digital migrations preserving sacred user data  
+- Resolved daemonic driver disturbances and banished bugs  
+- Installed & curated Linux environments, tailored to both scholars and common folk  
 
 ---
 
-## 📚 Currently Learning
+## 🧠 Current Study
 
-- 🧠 Advanced Network Administration  
-- 🔐 System Security Fundamentals  
-- ☁️ Cloud Infrastructure & DevOps Tools  
-
----
-
-## 🔍 Open To
-
-- 🚀 Internships  
-- 🌱 Mentorships  
-- 👨‍💻 Junior roles in IT support or networking
+- Cryptic Networks and their Guardianship  
+- Arcane Arts of Security & System Integrity  
+- The Nebulous Realm of Cloud Infrastructure  
 
 ---
 
-## 🧠 Fun Fact
+## 🏛 Seeking Patronage
 
-When I’m not working with systems, I love diving into new Linux distros and exploring open-source projects!
+- Opportunities for mentorship under experienced sages  
+- Apprenticeships where I may hone my craft  
+- Journeyman roles in the guilds of IT and Networking
 
 ---
 
-<p align="center">Thanks for stopping by! Feel free to connect or check out my work here on GitHub 👇</p>
+## 🕯️ Final Musings
+
+When not at my terminal, I revel in the obscure — experimenting with minimalist Linux setups and pondering the philosophy of technology. The terminal is my quill; the kernel, my parchment.
+
+---
+
+<p align="center"><em>“Code is poetry, structure is serenity.”</em></p>
