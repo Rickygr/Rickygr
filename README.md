@@ -1,9 +1,6 @@
 Hi 👋 My name is Riekus Grobler
 ===============================
 
-Linux wizard 🧙🏻
-------------
-
 Bachelor of Information Technology student , with a strong passion for networking, system support, and Linux systems. I thrive on solving technical problems and optimizing system performance. My hands-on experience in troubleshooting and supporting IT infrastructure allows me to bridge theory with practical, real-world problem solving.
 
 * 🧠  I'm learning Bash, Linux , Java, Python
