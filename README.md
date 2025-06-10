@@ -27,4 +27,4 @@ Bachelor of Information Technology student , with a strong passion for networkin
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Rickygr"><img src="https://github-readme-stats.vercel.app/api?username=Rickygr&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Rickygr's GitHub stats" /></a>
+<a href="http://www.github.com/encryptd0"><img src="https://github-readme-stats.vercel.app/api?username=encryptd0&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="encryptd0's GitHub stats" /></a>
