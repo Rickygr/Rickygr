@@ -1,7 +1,7 @@
 My name is Riekus Grobler
 ===============================
 
-Bachelor of Information Technology student , with a strong passion for networking, system support, and Linux systems. I thrive on solving technical problems and optimizing system performance. My hands-on experience in troubleshooting and supporting IT infrastructure allows me to bridge theory with practical, real-world problem solving.
+<! --Bachelor of Information Technology student , with a strong passion for networking, system support, and Linux systems. I thrive on solving technical problems and optimizing system performance. My hands-on experience in troubleshooting and supporting IT infrastructure allows me to bridge theory with practical, real-world problem solving.-->
 
 ### Skills
 
